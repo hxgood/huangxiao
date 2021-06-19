@@ -1,0 +1,21 @@
+{
+    "name": "huangxiao/lib",
+    "description": "the huangxiao lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangxiao",
+            "email": "360817931@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Huangxiao\\": "src/"
+        }
+    }
+}
