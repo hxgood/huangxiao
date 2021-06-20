@@ -2,14 +2,14 @@
     "name": "huangxiao/lib",
     "description": "the huangxiao lib",
     "type": "library",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "huangxiao",
             "email": "360817931@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1"
     },
