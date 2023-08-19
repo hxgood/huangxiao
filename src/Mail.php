@@ -12,6 +12,6 @@ class Mail
 {
     public function send()
     {
-        return 'mail-send-success';
+        return 'mail-send-success1';
     }
 }
